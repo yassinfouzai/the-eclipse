@@ -1,0 +1,21 @@
+{
+  "name": "The Eclipse",
+  "displayName": "The Eclipse",
+  "description": "Yassine fouzai's theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
